@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.182,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Pxy\Unit1.pas=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Pxy\MSHTMLbyString.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Pxy\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Pxy\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Unit1.pas=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\PrxLstThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Psy.dproj=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Pxy.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Psy.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Pxy\HTMLDocClass.pas=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Pxy\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\Unit1.pas=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\GlobalsUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Osipov Dmitry\Documents\Embarcadero\Studio\Projects\Psy\MainUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
